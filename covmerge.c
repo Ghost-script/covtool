@@ -18,7 +18,7 @@
 
 
 #include <read_database.h>
-
+#include <stdlib.h>
 
 //
 // This program's purpose is to merge the instrumentation data
